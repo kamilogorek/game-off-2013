@@ -1,0 +1,37 @@
+{
+    "name": "GH-Game-Off-2013",
+    "version": "0.0.1",
+    "homepage": "https://github.com/kamilogorek/game-off-2013",
+    "description": "Application for GitHub Game-Off 2013",
+    "author": {
+        "name": "Kamil Ogórek",
+        "email": "kamil.ogorek@gmail.com",
+        "twitter": "@kamilogorek",
+        "url": "http://www.kamilogorek.pl/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kamilogorek/game-off-2013"
+    },
+    "bugs": {
+        "url": "https://github.com/kamilogorek/game-off-2013"
+    },
+    "devDependencies": {
+        "bower": "~1.2.7",
+        "browserify": "~2.35.1",
+        "connect-livereload": "~0.2.0",
+        "grunt": "~0.4.1",
+        "grunt-browserify": "~1.2.11",
+        "grunt-concurrent": "~0.4.1",
+        "grunt-contrib-connect": "~0.5.0",
+        "grunt-contrib-jshint": "~0.6.4",
+        "grunt-contrib-watch": "~0.5.3",
+        "grunt-notify": "~0.2.16",
+        "grunt-sass": "~0.7.0",
+        "load-grunt-tasks": "~0.1.0"
+    },
+    "engines": {
+        "node": "~0.10.0"
+    },
+    "license": "MIT"
+}

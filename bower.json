@@ -1,0 +1,26 @@
+{
+    "name": "GH-Game-Off-2013",
+    "version": "0.0.1",
+    "homepage": "https://github.com/kamilogorek/game-off-2013",
+    "description": "Application for GitHub Game-Off 2013",
+    "author": {
+        "name": "Kamil Ogórek",
+        "email": "kamil.ogorek@gmail.com",
+        "twitter": "@kamilogorek",
+        "url": "http://www.kamilogorek.pl/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kamilogorek/game-off-2013"
+    },
+    "bugs": {
+        "url": "https://github.com/kamilogorek/game-off-2013"
+    },
+    "dependencies": {
+        "modernizr": "~2.6.2"
+    },
+    "devDependencies": {
+        "phaser": "~1.1.2"
+    },
+    "license": "MIT"
+}
